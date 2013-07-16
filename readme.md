@@ -1,7 +1,7 @@
 python AccidentIntersection.py
 
 INPUT:
-   all_accidents.csv - from http://nypd.openscrape.com
+   all_accidents.csv - from http://nypd.openscrape.com/data/all_accidents.csv.zip
    exception.csv
    precinct.csv
 OUTPUT:
